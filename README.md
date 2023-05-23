@@ -1,5 +1,8 @@
 # SDG
 
+
+- module load git
+- which git
 - git pull
 - (make code changes)
 - git add Analysis.ipynb
